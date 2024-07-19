@@ -1,5 +1,6 @@
 Movie Mania<br>
-Welcome to Movie Mania! This is a dynamic movie website built using HTML, CSS, and JavaScript. Movie Mania allows you to explore and enjoy various movie-related features, including playing trailers, exploring different genres, and viewing lists of top-rated, popular, and upcoming movies.
+Welcome to Movie Mania! This is a dynamic movie website built using HTML, CSS, and JavaScript. Movie Mania allows you to explore and enjoy various movie-related features, including playing trailers, exploring different genres, and viewing lists of top-rated, popular, and upcoming movies.<br>
+
 Features<br>
 1. Play Trailers<br>
 YouTube Integration: Each movie entry includes a link to its trailer on YouTube, allowing users to watch trailers directly from the website.<br>
